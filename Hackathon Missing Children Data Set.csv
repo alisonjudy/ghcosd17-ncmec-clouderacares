@@ -1,0 +1,138 @@
+Case Number,Age Missing,Sex,Missing From City,Missing From State,Missing From Zop,Missing Date,Race,Vehicle Style,Vehicle Color
+1262987,0,Male,Fairbury,NE,68352,02/20/16,White,Station Wagon,Brown
+1266081,0,Female,Albuquerque,NM,87121,04/11/16,Am. Ind.,Sport Utility,Maroon
+1270365,0,Female,Detroit,MI,48205,06/14/16,Black,,
+1281896,0,Female,Wichita,KS,67212,11/17/16,Hispanic,,
+1284626,0,Female,Normandy,MO,63121,12/19/16,White,Van,Gray
+1260666,1,Male,Montebello,CA,90640,01/07/16,Hispanic,Van,Red
+1264951,1,Female,Spencer,IN,47460,03/22/16,White,,
+1268834,1,Female,Antioch,CA,94531,05/22/16,Black,"Sedan, 4 door",Silver
+1269482,1,Female,Los Angeles,CA,90032,05/23/16,Hispanic,,
+1274537,1,Female,Great Falls,MT,59405,08/12/16,White,,
+1281757,1,Female,Siloam Springs,AR,72761,11/12/16,White,Van,White
+1260997,2,Male,Pinson,TN,38366,01/14/16,White,,
+1261145,2,Female,Saginaw,MI,,01/18/16,Black,,
+1269821,2,Female,Oakland,CA,94612,02/01/16,Black,"Sedan, 4 door",Gray
+1266279,2,Male,Soledad,CA,,04/14/16,Hispanic,,Black
+1267815,2,Female,Wichita,KS,67202,05/08/16,Black,,
+1271963,2,Female,Galena Park,TX,,07/06/16,White,,Red
+1277597,2,Female,Rocky Mount,NC,27803,09/27/16,Black,Crossover,Green
+1283232,2,Male,Wichita,KS,,12/05/16,White,Sport Utility,Black
+1278220,3,Female,Augusta,ME,,10/04/16,White,,
+1280962,3,Male,Fort Lauderdale,FL,33311,11/05/16,Black,"Sedan, 4 door",Maroon
+1262966,4,Female,Detroit,MI,48214,02/16/16,White,Sport Utility,Black
+1263413,4,Female,Wolf Point,MT,59201,02/26/16,Am. Ind.,,
+1267258,4,Female,Brandon,FL,33511,04/29/16,Hispanic,,
+1278562,4,Female,Lakeland,FL,,10/08/16,White,"Sedan, 4 door",Silver
+1270879,5,Female,Bemidji,MN,56601,06/22/16,White,,
+1275027,5,Female,Watkins,MN,,08/20/16,White,Truck,White
+1284935,5,Female,Ruther Glen,VA,22546,12/24/16,Black,Sport Utility,Silver
+1268704,6,Male,Junction City,KS,66441,05/22/16,Black,,
+1270521,6,Female,Yoakum,TX,77995,06/16/16,Black,"Sedan, 4 door",White
+1276757,6,Female,Wilmington,NC,,09/14/16,Hispanic,,
+1276967,6,Male,Youngsville,LA,70592,09/18/16,Black,,
+1272811,7,Female,Amarillo,TX,,07/19/16,White,,
+1283232,7,Female,Wichita,KS,,12/05/16,Hispanic,Sport Utility,Black
+1260992,8,Male,Beaumont,TX,77713,01/08/16,Black,"Sedan, 4 door",Dark
+1271931,8,Female,Hialeah Gardens,FL,33018,05/30/16,Hispanic,,
+1270170,8,Male,Duncan,OK,73533,06/12/16,White,,
+1283232,8,Male,Wichita,KS,,12/05/16,Hispanic,Sport Utility,Black
+1261830,9,Female,Philadelphia,PA,19139,01/29/16,Black,,
+1269206,9,Female,Fort Myers,FL,33908,05/29/16,Hispanic,"Sedan, 4 door",
+1272741,9,Male,National City,CA,91950,07/18/16,Hispanic,,
+1273777,9,Male,Dallas,TX,,08/02/16,Black,,
+1274262,9,Male,Columbia,MD,21045,08/09/16,Black,,
+1278620,9,Female,Mesa,AZ,85206,10/09/16,White,,
+1262851,10,Male,Porterville,CA,93257,02/17/16,Hispanic,,
+1263356,10,Female,Paradise,CA,95969,02/25/16,White,,
+1267258,10,Female,Brandon,FL,33511,04/29/16,Hispanic,,
+1269641,10,Male,Chicago,IL,,06/03/16,Biracial,,
+1269646,10,Male,Rochester,MN,55904,06/04/16,Black,,
+1271193,10,Male,Dallas,TX,75203,06/27/16,Hispanic,,
+1272890,10,Male,Buckeye,AZ,85326,07/17/16,Black,,
+1277097,10,Female,Minneapolis,MN,55407,09/01/16,Black,,
+1278084,10,Male,Waukesha,WI,53189,10/02/16,Asian,,
+1279615,10,Male,Minneapolis,MN,55407,10/19/16,Black,,
+1280574,10,Female,Bullard,TX,75757,11/01/16,Hispanic,,
+1267258,11,Female,Brandon,FL,33511,04/29/16,Hispanic,,
+1267468,11,Female,Ship Rock,NM,,05/02/16,Am. Ind.,Van,Maroon
+1269962,11,Female,Houston,TX,77014,06/08/16,Black,,
+1277733,11,Female,Catawba,NC,,09/27/16,White,,
+1262283,12,Female,Rockwood,TN,,02/07/16,White,Truck,Brown
+1265642,12,Female,San Leandro,CA,94578,03/29/16,Black,,
+1268611,12,Female,Springfield,VA,22150,05/19/16,Hispanic,,
+1277535,12,Female,Willowick,OH,44095,09/24/16,Biracial,,
+1279790,12,Female,Raleigh,NC,27601,10/23/16,Black,,
+1281936,12,Male,Indiana,PA,15701,11/18/16,White,,
+1261720,13,Female,Blacksburg,VA,,01/27/16,White,,
+1262810,13,Male,Quincy,FL,32352,02/16/16,White,,
+1264296,13,Female,Houston,TX,,03/12/16,White,,
+1264746,13,Female,Miami,FL,,03/20/16,Black,,
+1269358,13,Male,Detroit,MI,,05/31/16,Black,,Black
+1269680,13,Female,Herndon,VA,20170,06/05/16,Hispanic,"Sedan, 4 door",Black
+1277400,13,Female,Salem,MO,65560,09/22/16,White,Pickup Truck,White
+1282057,13,Female,Fort Wayne,IN,46816,11/19/16,Asian,"Sedan, 2 door",Black
+1264765,14,Female,Tallassee,AL,36078,03/09/16,Black,,
+1264226,14,Female,West Plains,MO,65775,03/11/16,White,,
+1266918,14,Male,Orlando,FL,32811,04/18/16,White,,
+1267179,14,Female,Beaumont,CA,92223,04/27/16,Hispanic,,
+1269656,14,Male,Myerstown,PA,17067,06/05/16,Hispanic,,
+1273146,14,Female,Wichita,KS,67214,07/23/16,Hispanic,,
+1277682,14,Female,Brownsville,TX,78521,09/27/16,Hispanic,"Sedan, 4 door",Black
+1280579,14,Male,Ingleside,IL,60041,11/01/16,White,,
+1282798,14,Female,Williamston,NC,,11/27/16,White,,
+1261145,15,Female,Saginaw,MI,,01/18/16,Biracial,,
+1261511,15,Female,Forest Park,GA,30297,01/24/16,Biracial,,Red
+1261586,15,Female,Bartonville,IL,,01/25/16,White,,
+1263987,15,Female,Brevard,NC,28712,03/07/16,White,,
+1264849,15,Female,Aurora,IL,60505,03/20/16,Biracial,,
+1265460,15,Female,Watervliet,MI,49098,03/31/16,White,,
+1267323,15,Female,Waterloo,IA,50703,04/29/16,Black,"Sedan, 4 door",Silver
+1269030,15,Female,Vallejo,CA,,05/25/16,White,"Sedan, 4 door",Gold
+1271640,15,Male,Palm Beach,FL,33480,07/03/16,White,,
+1272741,15,Male,National City,CA,91950,07/18/16,Hispanic,,
+1281936,15,Female,Indiana,PA,15701,11/18/16,White,,
+1282884,15,Female,Collingswood,NJ,8108,11/22/16,White,,
+1283644,15,Female,Evans,GA,30809,12/04/16,White,"Sedan, 4 door",Tan
+1283601,15,Female,Miami,FL,33125,12/07/16,Hispanic,,
+1262242,16,Male,Quanah,TX,79252,02/05/16,White,,
+1262427,16,Female,Brewton,AL,36426,02/07/16,White,,
+1264834,16,Female,Springfield,MO,65803,02/19/16,White,Pickup Truck,Red
+1263274,16,Male,Jamul,CA,91935,02/23/16,White,,
+1266913,16,Female,Portales,NM,88130,04/24/16,Hispanic,Sport Utility,Unknown
+1267469,16,Female,Parkton,NC,28371,05/01/16,White,,
+1270814,16,Male,Saint Petersburg,FL,33712,06/20/16,Biracial,,
+1272949,16,Female,Aurora,CO,80011,07/15/16,Black,,
+1273862,16,Female,Sheridan,MT,59749,08/02/16,White,Pickup Truck,Black
+1274071,16,Female,Jersey Shore,PA,17740,08/06/16,White,,
+1280064,16,Male,Fort Worth,TX,76107,10/17/16,Black,,
+1279805,16,Male,Greybull,WY,82426,10/23/16,White,Sport Utility,Camouflage
+1279806,16,Male,Greybull,WY,82426,10/23/16,White,Sport Utility,Camouflage
+1280352,16,Female,Hudson,NY,12534,10/29/16,White,,
+1281183,16,Female,Baytown,TX,,11/08/16,White,Sport Utility,Cream
+1281900,16,Male,Palmer,AK,99645,11/13/16,White,Sport Utility,"Blue, Dark"
+1282896,16,Male,Longview,TX,75604,11/29/16,White,,
+1285070,16,Female,Beckley,WV,25801,12/28/16,Black,"Sedan, 2 door",Red
+1267713,17,Male,Dallas,NC,28034,05/05/16,White,,
+1268094,17,Male,Lima,OH,45801,05/12/16,White,,
+1281567,17,Male,Bemidji,MN,56601,10/31/16,Am. Ind.,,
+1282451,17,Female,Braintree,MA,2184,11/25/16,Black,,
+1262050,18,Female,South Hadley,MA,1075,01/17/16,White,,
+1264122,18,Male,Fort Wayne,IN,46835,03/09/16,Black,,
+1266064,18,Female,West Chester,OH,45069,04/09/16,White,"Sedan, 4 door",Black
+1274015,18,Female,Madison,WI,53704,07/26/16,Asian,,
+1283027,18,Male,Nampa,ID,83651,10/03/16,White,,
+1279982,18,Male,Baldwin,NY,11510,10/25/16,Black,,
+1284205,18,Male,Canadian,TX,,11/24/16,White,,
+1283255,18,Male,Lake Stevens,WA,98258,11/25/16,Black,,
+1263496,19,Female,Greensboro,NC,,01/07/16,Black,,
+1266722,19,Female,Atlanta,GA,,02/12/16,White,,
+1263751,19,Male,Boston,MA,2125,03/03/16,Hispanic,,
+1270848,19,Male,Macomb,MI,48044,03/10/16,White,,
+1267493,19,Male,Boone,NC,,04/21/16,White,,
+1273312,19,Female,Evansville,IN,47711,07/17/16,Biracial,,
+1273615,19,Male,Bedford,VA,,07/31/16,Black,,
+1284316,19,Male,Raymore,MO,64083,09/27/16,Black,,
+1283282,19,Female,Neptune,NJ,7753,12/02/16,White,"Sedan, 4 door",Silver
+1263263,20,Female,Okmulgee,OK,74447,02/02/16,White,,
+1265979,20,Female,Los Lunas,NM,87031,04/08/16,White,,
